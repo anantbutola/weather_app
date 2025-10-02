@@ -57,7 +57,7 @@ You need to have a modern web browser to run this application.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/weather-app.git](https://github.com/your-username/weather-app.git)
+    git clone [https://github.com/anantbutola/weather-app.git](https://github.com/anantbutola/weather-app.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
