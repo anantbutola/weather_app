@@ -2,8 +2,13 @@
 
 A beautiful and feature-rich weather application that provides real-time weather information and a 7-day forecast for any location. With a stunning and intuitive interface, checking the weather has never been more enjoyable.
 
-![Weather App Screenshot](anantbutola/weather_app/weather_app-10eca133ba7130ef1c444bc6285fde77d6ed7c85/image2.png)
-![Weather App Screenshot](anantbutola/weather_app/image3.png)
+## Screenshots
+
+<img src="image2.png" alt="Screenshot 1" width="1200"/>
+
+
+<img src="image3.png" alt="Screenshot 2" width="1200"/>
+
 ---
 
 ## 🌟 About The Project
